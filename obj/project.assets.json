@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/timthayne/.nuget/packages/": {}
+    "C:\\Users\\jethi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timthayne/Projects/cse210-05-demo/cse210-05-demo.csproj",
+      "projectUniqueName": "c:\\Users\\jethi\\C# Project\\cse210-05-demo\\cse210-05-demo.csproj",
       "projectName": "cse210-05-demo",
-      "projectPath": "/Users/timthayne/Projects/cse210-05-demo/cse210-05-demo.csproj",
-      "packagesPath": "/Users/timthayne/.nuget/packages/",
-      "outputPath": "/Users/timthayne/Projects/cse210-05-demo/obj/",
+      "projectPath": "c:\\Users\\jethi\\C# Project\\cse210-05-demo\\cse210-05-demo.csproj",
+      "packagesPath": "C:\\Users\\jethi\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\jethi\\C# Project\\cse210-05-demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/timthayne/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jethi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
